@@ -16,9 +16,9 @@ This repo focuses on dealing with responsive layouts with courses &amp; examples
 > -- code pen: [rem, em example](https://codepen.io/kevinpowell/pen/RKdjXe).
 >
 > ## use em for : **paddings, margins**
-
+>
 > > Because these properties refer to their own font sizes, not their parent ones, so compounding will not affects here.
-
+>
 > ## use rem for : **font-sizes**
-
+>
 > > Becauses it refers to the root elememt html { font-size: 16px; }, it wont refer to the parent of parent, so compounding wont affect this.
