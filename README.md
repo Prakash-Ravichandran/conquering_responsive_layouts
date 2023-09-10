@@ -11,9 +11,11 @@ This repo focuses on dealing with responsive layouts with courses &amp; examples
 
 # Day 2
 
-> --- Reference : [em & rem explained](https://youtu.be/_-aDOAMmDHI?si=95p3mFROtT0u6-dq).
-> --- Reference : [Why you shouldn't set font-sizes using em](https://youtu.be/pautqDqa54I?si=BiSS70RjLNT_oskm).
-> -- code pen: [rem, em example](https://codepen.io/kevinpowell/pen/RKdjXe).
+> Code Pen & explanation videos
+>
+> > code pen: [rem, em example](https://codepen.io/kevinpowell/pen/RKdjXe).
+> > Reference : [em & rem explained](https://youtu.be/_-aDOAMmDHI?si=95p3mFROtT0u6-dq).
+> > Reference : [Why you shouldn't set font-sizes using em](https://youtu.be/pautqDqa54I?si=BiSS70RjLNT_oskm).
 >
 > ## use em for : **paddings, margins**
 >
