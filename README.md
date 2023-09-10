@@ -11,7 +11,7 @@ This repo focuses on dealing with responsive layouts with courses &amp; examples
 
 # Day 2
 
-> Code Pen & explanation videos
+> ## Code Pen & explanation videos links
 >
 > > code pen: [rem, em example](https://codepen.io/kevinpowell/pen/RKdjXe).
 > > Reference : [em & rem explained](https://youtu.be/_-aDOAMmDHI?si=95p3mFROtT0u6-dq).
