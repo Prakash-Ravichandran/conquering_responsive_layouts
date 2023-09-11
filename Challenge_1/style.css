@@ -26,8 +26,18 @@ body {
   color: yellow;
 
   width: 80%;
+  max-width: 750px;
   margin: 0 auto;
 
   padding: 2em;
-  height: 100%;
+  /* height: 100%;  100% is a default one */
 }
+.intro-content {
+  width: 50%; /* child width should be smaller than parent */
+}
+
+/* By only remove height: 300px -> 100% is good for smaller screeens but
+s we saw, setting a fixed width on an element tends to be a bad idea. Instead we can use percentages, which make our lives easier.
+
+The only issue with this is, at large screens, things can get too big. Thankfully, we have max-width that can help us out.
+*/
