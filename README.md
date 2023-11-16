@@ -32,13 +32,16 @@ This repo focuses on dealing with responsive layouts with courses &amp; examples
 > The only issue with this is, at large screens, things can get too big. Thankfully, we have max-width that can help us out!
 >
 > > Don'ts
-> > width: 250px
+> > `width: 250px`
 >
 > > Do's
+> >
+> > ```
+> > width: 80%;
+> > max-width: 750px;
+> > margin: 0 auto;
+> > ```
 
 ```
-width: 80%;
-max-width: 750px;
-margin: 0 auto;
 
 ```
