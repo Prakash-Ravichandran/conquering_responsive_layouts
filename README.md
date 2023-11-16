@@ -31,7 +31,7 @@ This repo focuses on dealing with responsive layouts with courses &amp; examples
 > Instead we can use percentages, which make our lives easier.
 > The only issue with this is, at large screens, things can get too big. Thankfully, we have max-width that can help us out!
 >
-> > Don'ts
+> > Dont's
 > > `width: 250px`
 >
 > > Do's
