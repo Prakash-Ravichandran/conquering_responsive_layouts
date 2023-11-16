@@ -4,7 +4,9 @@ This Resources.md file focuses on aggregating useful resources/articles supporti
 
 # CSS Typogaphy:
 
-- Naturally without css all the websites are responsive, we make some changes to make the web non-responsive, hence we deal with responsiveness.
+>> Clamp() function:
+>> Ex: font-size: clamp(3.5rem, );
+
 
 - ## Avoid giving heights
   > Instead give height: 100%,

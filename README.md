@@ -24,3 +24,21 @@ This repo focuses on dealing with responsive layouts with courses &amp; examples
 > ## use rem for : **font-sizes**
 >
 > > Becauses it refers to the root elememt html { font-size: 16px; }, it wont refer to the parent of parent, so compounding wont affect this.
+
+# Day 3 | Enter max-width
+
+> Giving fixed width is a bad idea,
+> Instead we can use percentages, which make our lives easier.
+> The only issue with this is, at large screens, things can get too big. Thankfully, we have max-width that can help us out!
+>
+> > Don'ts
+> > width: 250px
+>
+> > Do's
+
+```
+width: 80%;
+max-width: 750px;
+margin: 0 auto;
+
+```
