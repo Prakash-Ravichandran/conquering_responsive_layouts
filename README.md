@@ -45,3 +45,13 @@ This repo focuses on dealing with responsive layouts with courses &amp; examples
 ```
 
 ```
+
+# Day 4 | Extra curricular activities
+
+> CSS Units: vh, vw, vmin, vmax:
+>
+> > 0 to 1 minute: They are not only useful in layouts but also useful in responsive typographies.
+> > 1 to 4 minute: using `height: 100vh` in a div, you might see on some websites as you login you can see.But this causes issues in > >>
+> > mobile devices when coming to small screens, we need to fix it with media queries. we can also use `vw for width:`
+> > 5 to 8 minute : Vmax : max(vw,vh), Vmin: min(vw,vh),
+> > 8 to 9 minute : Giving `font-size: vw` font size of page title is good it changes according to vw, the problem with `vw` is for smaller screens it gets too small, for larger screens it gets too large. => solution we can handle with media-queries/clamp(). It best fits for screens sizes between `small < Best fit screen sizes < large`
